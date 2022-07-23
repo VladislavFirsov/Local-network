@@ -11,7 +11,7 @@ class Data:
 
 
 class Router:
-    """Manager packages
+    """Manager of packages
     """
 
     def __init__(self):
